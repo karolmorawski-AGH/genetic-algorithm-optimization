@@ -1,2 +1,10 @@
 # genetic-algorithm-optimization
- Genetic algorithm for optimization of Ackley function
+
+### Dependencies: 
+[GAFT](https://github.com/PytLab/gaft)
+
+Rosenbrock function formula:
+
+![Rosenbrock](img/formula.jpg)
+
+![Rosenbrock](img/plot.jpg)
